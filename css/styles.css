@@ -20,6 +20,9 @@ h1{
     padding: 30px;
 }
 
-.dog{
-
+/* Navigation bar */
+.navbar-brand{
+font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;
 }
